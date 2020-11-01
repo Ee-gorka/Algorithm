@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/FPMI_2_course/TheoryOfAlgorithms/BinaryHeap/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+
